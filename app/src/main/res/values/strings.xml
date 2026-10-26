@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Planer dnia</string>
+    <string name="screen_heading">Planer dnia</string>
+    <string name="screen_subtitle">Zapisuj zadania i organizuj swój czas.</string>
+    <string name="name_hint">Zadanie</string>
+    <string name="group_hint">Kategoria, np. Szkoła</string>
+    <string name="save_task">Dodaj do planu</string>
+    <string name="list_heading">Lista zadań</string>
+</resources>
